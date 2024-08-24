@@ -20,7 +20,7 @@
 ### Programming Languages
 
 <p>
-   <img alt="Java" src="https://img.shields.io/badge/JAVA-informational?logo=Java&logoColor=white&color=262626">
+   <img alt="Java" src="https://img.shields.io/badge/JAVA-informational?logo=coffeescript&logoColor=white&color=262626">
    <img alt="Html" src="https://img.shields.io/badge/HTML-informational?logo=html5&logoColor=white&color=262626">
    <img alt="C#" src="https://img.shields.io/badge/C%23-informational?logo=C&logoColor=white&color=262626">
    <img alt="Css" src="https://img.shields.io/badge/CSS-informational?logo=css3&logoColor=white&color=262626">
