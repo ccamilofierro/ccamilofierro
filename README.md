@@ -49,7 +49,7 @@
     </td>
     <!-- Frameworks -->
     <td valign="top" width="50%">
-      <h3>⚛️ Frameworks</h3>
+      <h3 align="center">Frameworks</h3>
       <p>
         <img alt="Angular" src="https://img.shields.io/badge/ANGULAR-informational?logo=angular&logoColor=white&color=262626">
         <img alt="React" src="https://img.shields.io/badge/REACT-informational?logo=React&logoColor=white&color=262626">
@@ -63,14 +63,14 @@
   <!-- Bibliotecas y Bases de Datos -->
   <tr>
     <td valign="top" width="50%">
-      <h3>📘 Libraries</h3>
+      <h3 align="center">Libraries</h3>
       <p>
         <img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-informational?logo=bootstrap&logoColor=white&color=262626">
         <img alt="Tailwind CSS" src="https://img.shields.io/badge/TAILWINDS CSS-informational?logo=tailwindcss&logoColor=white&color=262626">
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>🐬 Databases</h3>
+      <h3 align="center">Databases</h3>
       <p>
         <img alt="MySql" src="https://img.shields.io/badge/MYSQL-informational?logo=mysql&logoColor=white&color=262626">
         <img alt="MongoDB" src="https://img.shields.io/badge/MONGODB-informational?logo=mongodb&logoColor=white&color=262626">
@@ -83,7 +83,7 @@
   <!-- Control de Versiones y Herramientas -->
   <tr>
     <td valign="top" width="50%">
-      <h3>🐙 Version Controls & CI/CD</h3>
+      <h3 align="center">Version Controls & CI/CD</h3>
       <p>
         <img alt="Git" src="https://img.shields.io/badge/GIT-informational?logo=git&logoColor=white&color=262626">
         <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-informational?logo=github&logoColor=white&color=262626">
@@ -91,7 +91,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>📝 IDEs & Tools</h3>
+      <h3 align="center"> IDEs & Tools</h3>
       <p>
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/VISUAL STUDIO CODE-informational?logo=v&logoColor=white&color=262626">
         <img alt="PyCharm" src="https://img.shields.io/badge/PYCHARM-informational?logo=pycharm&logoColor=white&color=262626">
