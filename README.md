@@ -55,7 +55,7 @@
   <img alt="SqlLite" src="https://img.shields.io/badge/SQL LITE-informational?logo=sqlite&logoColor=white&color=262626">
 </p>
 
-- ### Version Controls & CI/CD
+### 🐙 Version Controls & CI/CD
   
 <p>
   <img alt="Git" src="https://img.shields.io/badge/GIT-informational?logo=git&logoColor=white&color=262626">
@@ -63,7 +63,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/DOCKER-informational?logo=docker&logoColor=white&color=262626">
 </p>
 
-- ### IDEs & Tools
+### 📝 IDEs & Tools
   
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VISUAL STUDIO CODE-informational?logo=v&logoColor=white&color=262626">
