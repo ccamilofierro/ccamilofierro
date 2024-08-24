@@ -87,7 +87,8 @@
   </tr>
 </table>
 
-
+ <h2 > Popular repositories</h2> 
+<div style="display: flex; align-items: center; justify-content: center;">
 <div align="center">
 <a href="https://github.com/MrBlueBird2/to-do-list-flask">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=dark&bg_color=262626&hide_border=true" />
