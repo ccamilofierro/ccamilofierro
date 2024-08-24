@@ -89,7 +89,7 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+  <h2 style="margin: 5px 10px;"> 🔥 GitHub Statistics</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
   <!--- stats (start) -->
 <table align="center">
