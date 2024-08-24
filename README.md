@@ -17,7 +17,7 @@
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
-### Programming Languages
+- ### Languages
 
 <p>
    <img alt="Java" src="https://img.shields.io/badge/JAVA-informational?logo=coffeescript&logoColor=white&color=262626">
@@ -28,30 +28,17 @@
    <img alt="Python" src="https://img.shields.io/badge/PYTHON-informational?logo=Python&logoColor=white&color=262626">
 </p>
 
-### Frameworks & Libraries
-
+- ### Frameworks
+  
 <p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-</p>
-
-### Databases & Cloud Hosting
-
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+  <img alt="Angular" src="https://img.shields.io/badge/ANGULAR-informational?logo=angular&logoColor=white&color=262626">
 </p>
 
 <div align="center">
 <a href="https://github.com/MrBlueBird2/to-do-list-flask">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=dark&bg_color=262626&hide_border=true" />
 </a>    
 <a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=dark&bg_color=262626&hide_border=true"/>
 </a>
 </div>
