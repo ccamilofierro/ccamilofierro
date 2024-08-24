@@ -7,10 +7,10 @@
 <img src="https://raw.githubusercontent.com/ccamilofierro/ccamilofierro/main/Banner-cristian-fierro.png" alt="banner that says Cristian Fierro - fullstack developer">
 <div align="center">
 
-  <a href="https://www.instagram.com/isra_legend" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/israel.pinto.505/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:israelhurtarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/israel-hurtarte-pinto-738245218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/ccamilofierro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.pendiente.com/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ccamilofierro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cristian-camilo-garzón" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!--- stats & Trophy (start) -->
