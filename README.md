@@ -19,6 +19,8 @@
 
 <h2 align="left">🧠 Skills Showcase</h2>
 
+<div  align="center">
+
 ### ☕️ Languages
 
   <p>
@@ -77,7 +79,7 @@
   <img alt="Slack" src="https://img.shields.io/badge/SLACK-informational?logo=slack&logoColor=white&color=262626">
 </p>
 
-
+</div>
 <div align="center">
 <a href="https://github.com/MrBlueBird2/to-do-list-flask">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=dark&bg_color=262626&hide_border=true" />
