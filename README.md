@@ -2,10 +2,6 @@
 <div align="center">
 
   <h1 align="center">Hi 👋 , I'm Cristian</h1>
-
-  <!-- Letrero Palabras Claves !-->
-  <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=Full+Stack+Developer"></h3>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/ccamilofierro/ccamilofierro/main/Banner-cristian-fierro.png" alt="banner that says Cristian Fierro - fullstack developer">
