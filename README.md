@@ -37,7 +37,7 @@
   <!-- Lenguajes de Programación -->
   <tr>
     <td valign="top" width="50%">
-      <h3>☕️ Languages</h3>
+      <h3 align="center">Languages</h3>
       <p>
         <img alt="Java" src="https://img.shields.io/badge/JAVA-informational?logo=coffeescript&logoColor=white&color=262626">
         <img alt="Html" src="https://img.shields.io/badge/HTML-informational?logo=html5&logoColor=white&color=262626">
