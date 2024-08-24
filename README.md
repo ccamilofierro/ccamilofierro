@@ -55,8 +55,18 @@
   <img alt="Git" src="https://img.shields.io/badge/GIT-informational?logo=git&logoColor=white&color=262626">
   <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-informational?logo=github&logoColor=white&color=262626">
   <img alt="Docker" src="https://img.shields.io/badge/DOCKER-informational?logo=docker&logoColor=white&color=262626">
-  <img alt="SourceTree" src="https://img.shields.io/badge/SOURCETREE-informational?logo=sourcetree&logoColor=white&color=262626">
 </p>
+
+- ### IDEs & Tools
+  
+<p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VISUAL STUDIO CODE-informational?logo=v&logoColor=white&color=262626">
+  <img alt="PyCharm" src="https://img.shields.io/badge/PYCHARM-informational?logo=pycharm&logoColor=white&color=262626">
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/INTELLIJ IDEA-informational?logo=intellijidea&logoColor=white&color=262626">
+  <img alt="Sublime text" src="https://img.shields.io/badge/SUBLIME TEXT-informational?logo=sublimetext&logoColor=white&color=262626">
+  <img alt="Postman" src="https://img.shields.io/badge/POSTMAN-informational?logo=postman&logoColor=white&color=262626">
+</p>
+
 
 <div align="center">
 <a href="https://github.com/MrBlueBird2/to-do-list-flask">
@@ -69,7 +79,7 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <h2 style="margin: 5px 10px;">GitHub Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> </h2> 
+  <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
   <!--- stats (start) -->
 <table align="center">
