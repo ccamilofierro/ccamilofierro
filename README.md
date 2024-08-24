@@ -13,6 +13,8 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
+  <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+<div style="display: flex; align-items: center; justify-content: center;">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
@@ -31,3 +33,12 @@
 </tr>
 </table>
 <!--- stats (end) -->
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-camilo-garzón/)
+[![image](https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white)](https://www.instagram.com//)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccamilofierro@gmail.com)
+  
+</div>
