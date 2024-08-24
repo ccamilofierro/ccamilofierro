@@ -20,12 +20,12 @@
 ### Programming Languages
 
 <p>
-   <img alt="java" src="https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=Java&logoColor=white&color=ffffff">
-   <img alt="Html" src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffffff">
-   <img alt="C#" src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%23&logoColor=white&color=ffffff">
-   <img alt="CSS" src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=ffffff">
-   <img alt="JavaScript" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffffff">
-     <img alt="Python" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=ffffff">
+   <img alt="Java" src="https://img.shields.io/badge/JAVA-informational?logo=Java&logoColor=white&color=262626">
+   <img alt="Html" src="https://img.shields.io/badge/HTML-informational?logo=html5&logoColor=white&color=262626">
+   <img alt="C#" src="https://img.shields.io/badge/C%23-informational?logo=C&logoColor=white&color=262626">
+   <img alt="Css" src="https://img.shields.io/badge/CSS-informational?logo=css3&logoColor=white&color=262626">
+   <img alt="Javascript" src="https://img.shields.io/badge/JAVASCRIPT-informational?logo=javascript&logoColor=white&color=262626">
+   <img alt="Python" src="https://img.shields.io/badge/PYTHON-informational?logo=Python&logoColor=white&color=262626">
 </p>
 
 ### Frameworks & Libraries
