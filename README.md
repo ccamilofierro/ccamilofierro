@@ -65,6 +65,10 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/INTELLIJ IDEA-informational?logo=intellijidea&logoColor=white&color=262626">
   <img alt="Sublime text" src="https://img.shields.io/badge/SUBLIME TEXT-informational?logo=sublimetext&logoColor=white&color=262626">
   <img alt="Postman" src="https://img.shields.io/badge/POSTMAN-informational?logo=postman&logoColor=white&color=262626">
+  <img alt="NetBeans" src="https://img.shields.io/badge/NETBEANS-informational?logo=apachenetbeanside&logoColor=white&color=262626">
+  <img alt="Trello" src="https://img.shields.io/badge/TRELLO-informational?logo=trello&logoColor=white&color=262626">
+  <img alt="Microsoft office" src="https://img.shields.io/badge/MICROSOFT OFFICE-informational?logo=awwwards&logoColor=white&color=262626">
+  <img alt="Slack" src="https://img.shields.io/badge/SLACK-informational?logo=slack&logoColor=white&color=262626">
 </p>
 
 
