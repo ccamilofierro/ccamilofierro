@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/cristian-camilo-garzón" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/ccamilofierro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.pendiente.com/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a> 
+ <a href="https://www.pendiente.com/" target="_blank"><img src="https://img.shields.io/badge/Portafolio-%23333?style=for-the-badge&logo=proton&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ccamilofierro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
@@ -19,7 +19,7 @@
 
 <h1 align="left">🧠 Skills Showcase</h1>
 
-- ### Languages
+### ☕️ Languages
 
 <p>
    <img alt="Java" src="https://img.shields.io/badge/JAVA-informational?logo=coffeescript&logoColor=white&color=262626">
@@ -30,7 +30,7 @@
    <img alt="Python" src="https://img.shields.io/badge/PYTHON-informational?logo=Python&logoColor=white&color=262626">
 </p>
 
-- ### Frameworks
+### ⚛️ Frameworks
   
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/ANGULAR-informational?logo=angular&logoColor=white&color=262626">
@@ -38,11 +38,15 @@
   <img alt="Nest" src="https://img.shields.io/badge/NEST-informational?logo=nestjs&logoColor=white&color=262626">
   <img alt="Spring" src="https://img.shields.io/badge/SPRING-informational?logo=spring&logoColor=white&color=262626">
   <img alt="Flask" src="https://img.shields.io/badge/FLASK-informational?logo=flask&logoColor=white&color=262626">
+</p>
+
+### 📘Libraries
+<p>
   <img alt="bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-informational?logo=bootstrap&logoColor=white&color=262626">
   <img alt="tailwindcss" src="https://img.shields.io/badge/TAILWINDS CSS-informational?logo=tailwindcss&logoColor=white&color=262626">
 </p>
-
-- ### Databases
+  
+### 🐬 Databases
   
 <p>
   <img alt="MySql" src="https://img.shields.io/badge/MYSQL-informational?logo=mysql&logoColor=white&color=262626">
