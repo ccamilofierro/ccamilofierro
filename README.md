@@ -69,7 +69,7 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+  <h2 style="margin: 5px 10px;">GitHub Statistics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> </h2> 
 <div style="display: flex; align-items: center; justify-content: center;">
   <!--- stats (start) -->
 <table align="center">
