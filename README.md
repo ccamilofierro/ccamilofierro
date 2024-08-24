@@ -32,6 +32,29 @@
   
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/ANGULAR-informational?logo=angular&logoColor=white&color=262626">
+  <img alt="React" src="https://img.shields.io/badge/REACT-informational?logo=React&logoColor=white&color=262626">
+  <img alt="Nest" src="https://img.shields.io/badge/NEST-informational?logo=nestjs&logoColor=white&color=262626">
+  <img alt="Spring" src="https://img.shields.io/badge/SPRING-informational?logo=spring&logoColor=white&color=262626">
+  <img alt="Flask" src="https://img.shields.io/badge/FLASK-informational?logo=flask&logoColor=white&color=262626">
+  <img alt="bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-informational?logo=bootstrap&logoColor=white&color=262626">
+  <img alt="tailwindcss" src="https://img.shields.io/badge/TAILWINDS CSS-informational?logo=tailwindcss&logoColor=white&color=262626">
+</p>
+
+- ### Databases
+  
+<p>
+  <img alt="MySql" src="https://img.shields.io/badge/MYSQL-informational?logo=mysql&logoColor=white&color=262626">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MONGODB-informational?logo=mongodb&logoColor=white&color=262626">
+  <img alt="Postgres" src="https://img.shields.io/badge/POSTGRES-informational?logo=postgresql&logoColor=white&color=262626">
+  <img alt="SqlLite" src="https://img.shields.io/badge/SQL LITE-informational?logo=sqlite&logoColor=white&color=262626">
+</p>
+
+- ### Version Controls & CI/CD
+  
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/GIT-informational?logo=git&logoColor=white&color=262626">
+  <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-informational?logo=github&logoColor=white&color=262626">
+  <img alt="Docker" src="https://img.shields.io/badge/DOCKER-informational?logo=docker&logoColor=white&color=262626">
 </p>
 
 <div align="center">
