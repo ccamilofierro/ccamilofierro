@@ -116,7 +116,7 @@
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ccamilofierro&theme=apprentice&show_icons=true&count_private=true&hide_border=true" />
         <br><br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cristian's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ccamilofierro&theme=dark&hide_border=true" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Cristian's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ccamilofierro&theme=apprentice&hide_border=true" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccamilofierro&theme=apprentice&hide_border=true&layout=compact" />
