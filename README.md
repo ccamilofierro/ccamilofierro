@@ -1,6 +1,6 @@
 <!-- Título -->
 <div align="center">
-  <h1 align="center">Hi 👋 , I'm Cristian</h1>
+  <h1 align="center">Hi 👋 , I'm Cristian Fierro</h1>
 </div>
 
 <!-- Banner -->
