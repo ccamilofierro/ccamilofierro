@@ -1,6 +1,6 @@
 <!-- Título -->
 <div align="center">
-  <h1 align="center">Hi 👋 , I'm Cristian Fierro</h1>
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Cristian Fierro</h1>
 </div>
 
 <!-- Banner -->
@@ -88,6 +88,7 @@
         <img alt="Git" src="https://img.shields.io/badge/GIT-informational?logo=git&logoColor=white&color=262626">
         <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-informational?logo=github&logoColor=white&color=262626">
         <img alt="Docker" src="https://img.shields.io/badge/DOCKER-informational?logo=docker&logoColor=white&color=262626">
+        <img alt="" src="https://img.shields.io/badge/DOCKER-informational?logo=docker&logoColor=white&color=262626">
       </p>
     </td>
     <td valign="top" width="50%">
@@ -100,8 +101,14 @@
         <img alt="Postman" src="https://img.shields.io/badge/POSTMAN-informational?logo=postman&logoColor=white&color=262626">
         <img alt="NetBeans" src="https://img.shields.io/badge/NETBEANS-informational?logo=apachenetbeanside&logoColor=white&color=262626">
         <img alt="Trello" src="https://img.shields.io/badge/TRELLO-informational?logo=trello&logoColor=white&color=262626">
-        <img alt="Microsoft Office" src="https://img.shields.io/badge/MICROSOFT OFFICE-informational?logo=awwwards&logoColor=white&color=262626">
+        <img alt="Jira" src="https://img.shields.io/badge/JIRA-informational?logo=jira&logoColor=white&color=262626">
+        <img alt="Azure DevOps" src="https://img.shields.io/badge/AZURE DEVOPS-informational?logo=Azure&logoColor=white&color=262626">
+        <img alt="Excel" src="https://img.shields.io/badge/EXCEL-informational?logo=awwwards&logoColor=white&color=262626">
+        <img alt="Google sheets" src="https://img.shields.io/badge/GOOGLE SHEETS-informational?logo=googlesheets&logoColor=white&color=262626">
         <img alt="Slack" src="https://img.shields.io/badge/SLACK-informational?logo=slack&logoColor=white&color=262626">
+        <img alt="Photoshop" src="https://img.shields.io/badge/PHOTOSHOP-informational?logo=adobephotoshop&logoColor=white&color=262626">
+        <img alt="Figma" src="https://img.shields.io/badge/FIGMA-informational?logo=figma&logoColor=white&color=262626">
+        <img alt="Canva" src="https://img.shields.io/badge/CANVA-informational?logo=canva&logoColor=white&color=262626">
       </p>
     </td>
   </tr>
