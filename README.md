@@ -11,10 +11,10 @@
   <a href="https://www.linkedin.com/in/ccamilofierro" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="https://www.instagram.com/ccamilofierro" target="_blank">
+  <a href="https://www.instagram.com/cf.software.co/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.pendiente.com/" target="_blank">
+  <a href="https://n9.cl/tpp0z" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=proton&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:ccamilofierro@gmail.com">
