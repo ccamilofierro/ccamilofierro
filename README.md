@@ -9,18 +9,19 @@
 <!-- Enlaces a redes sociales y portafolio -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ccamilofierro" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   <a href="https://www.instagram.com/cf.software.co/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://n9.cl/tpp0z" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=proton&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=proton&logoColor=white">
   </a> 
-  <a href="mailto:ccamilofierro@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="mailto:ccamilofierro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
 
 <!-- Sección Acerca de Mí -->
 <h2 align="left">🚀 About Me</h2>
