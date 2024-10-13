@@ -22,6 +22,7 @@
   </a>
 </div>
 
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!-- Sección Acerca de Mí -->
 <h2 align="left">🚀 About Me</h2>
