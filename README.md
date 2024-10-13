@@ -22,15 +22,24 @@
   </a>
 </div>
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 <!-- Sección Acerca de Mí -->
 <h2 align="left">🚀 About Me</h2>
-<p align="justify">
-  I am a systems engineer and full stack developer passionate about creating innovative technological solutions. 
-  With experience in web development, microservices, and database management, I enjoy working with modern technologies. 
-  My goal is to build robust and efficient applications that solve real problems and improve user experience.
-</p>
+
+<div style="display: flex; align-items: center;">
+  <!-- Imagen a la izquierda -->
+  <div style="flex: 1;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer GIF" style="max-width: 100%; height: auto;">
+  </div>
+  
+  <!-- Texto a la derecha -->
+  <div style="flex: 2; margin-left: 20px;">
+    <p align="justify">
+      I am a systems engineer and full stack developer passionate about creating innovative technological solutions. 
+      With experience in web development, microservices, and database management, I enjoy working with modern technologies. 
+      My goal is to build robust and efficient applications that solve real problems and improve user experience.
+    </p>
+  </div>
+</div>
 
 <!-- Sección de Habilidades -->
 <h2 align="left">🧠 Skills Showcase</h2>
