@@ -4,7 +4,7 @@
 </div>
 
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/ccamilofierro/ccamilofierro/main/Banner-cristian-fierro.png" alt="banner that says Cristian Fierro - fullstack developer">
+![Cristian Fierro - fullstack developer](https://raw.githubusercontent.com/ccamilofierro/ccamilofierro/main/Banner-cristian-fierro.png)
 
 <!-- Enlaces a redes sociales y portafolio -->
 <div align="center">
