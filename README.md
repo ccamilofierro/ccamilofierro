@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/cf.software.co/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://n9.cl/tpp0z" target="_blank">
+  <a href="[https://n9.cl/tpp0z](https://html-cc.github.io/Portfolio/index.html)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23333?style=for-the-badge&logo=proton&logoColor=white">
   </a> 
   <a href="mailto:ccamilofierro@gmail.com" target="_blank">
